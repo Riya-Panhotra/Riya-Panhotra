@@ -4,14 +4,14 @@
 
 
 ----
-  <h1 align="center"> 𝐇𝐢<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="50px"> 𝐈'𝐦 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫</h1>
+  <h1 align="center"> 𝐇𝐢<img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="50px"> 𝐈'𝐦 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫</h1>
 
 
 
 <!--- <h3 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> I'm Full Stack Developer -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> -->
  
                                                          
- <p align="right"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
+ <p align="right"><img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/a1.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> </p>
 
 <table cellpadding="0" cellspacing="0" border="0">
@@ -77,7 +77,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <img align="left" alt="Ashish's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://github.com/Ashish2030">
+<a href="https://github.com/Riya-Panhotra">
   <img align="left" alt="Ashish's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
@@ -109,7 +109,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&theme=tokyonight" />
   </a>
 <a href="https://github.com/ashish2030">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=27" alt="Ashish2030"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=27" alt="Riya-Panhotra"/>
 </a>
 <br/>
 <br/>
@@ -121,23 +121,23 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Mycart-website&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ashish2030/TodoList">
+<a href="https://github.com/Riya-Panhotra/TodoList">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=TodoList&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ashish2030/Hackerrank">
+<a href="https://github.com/Riya-Panhotra/Hackerrank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Hackerrank&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ashish2030/pacman-Game">
+<a href="https://github.com/Riya-Panhotra/pacman-Game">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=pacman-Game&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ashish2030/Data-Structures">
+<a href="https://github.com/Riya-Panhotra/Data-Structures">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Data-Structures&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ashish2030/Tetris-Game">
+<a href="https://github.com/Riya-Panhotra/Tetris-Game">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Tetris-Game&theme=tokyonight" />
 </a>
 
@@ -166,7 +166,7 @@ I'm a Night 🦉
 <div align="center">
   
   
-### Show ❤️ by 🌟 my [repositories](https://github.com/Ashish2030?tab=repositories)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/Riya-Panhotra?tab=repositories)!
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
 </div>
