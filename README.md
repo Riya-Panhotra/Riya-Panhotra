@@ -12,11 +12,11 @@
  
                                                          
  <p align="right"><img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/a1.gif"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Riya-Panhotra&label=Profile%20views&color=0e75b6&style=flat" alt="Riya-Panhotra" /> </p>
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ashish2030&theme=onedark"        alt="ashish2030" /></a> </p></td>
+    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Riya-Panhotra&theme=onedark"        alt="Riya-Panhotra" /></a> </p></td>
     <td><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </td>
   </tr>
@@ -58,7 +58,7 @@
 <br/>
 
 Hackerrank              -  [Check out!](https://www.hackerrank.com/ashishkumar_cse2)<br/>
-Leet Code               -  [Check out!](https://leetcode.com/ashish2030/)<br/>
+Leet Code               -  [Check out!](https://leetcode.com/Riya-Panhotra/)<br/>
 GeeksforGeeks           -  [Check out!](https://auth.geeksforgeeks.org/user/ashishkumarcse18/todo-done/)<br/>
 CodeQuiotent            -  [Check out!](https://codequotient.com/profile/ashish_kumar)<br/>
 CodeChef                -  [Check out!](https://www.codechef.com/users/ashu_535)<br/>
@@ -105,11 +105,11 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 ### Github Activity ✔:
 
-<a href="https://github.com/ashish2030">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&theme=tokyonight" />
+<a href="https://github.com/Riya-Panhotra">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Panhotra&theme=tokyonight" />
   </a>
-<a href="https://github.com/ashish2030">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=27" alt="Riya-Panhotra"/>
+<a href="https://github.com/Riya-Panhotra">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riya-Panhotra&show_icons=true&theme=tokyonight&line_height=27" alt="Riya-Panhotra"/>
 </a>
 <br/>
 <br/>
@@ -117,28 +117,28 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 ### My Projects ✨:
   
-<a href="https://github.com/ashish2030/Mycart-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Mycart-website&theme=tokyonight" />
+<a href="https://github.com/Riya-Panhotra/Mycart-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Mycart-website&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Riya-Panhotra/TodoList">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=TodoList&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=TodoList&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Riya-Panhotra/Hackerrank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Hackerrank&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Hackerrank&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Riya-Panhotra/pacman-Game">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=pacman-Game&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=pacman-Game&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Riya-Panhotra/Data-Structures">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Data-Structures&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Data-Structures&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Riya-Panhotra/Tetris-Game">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Tetris-Game&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Tetris-Game&theme=tokyonight" />
 </a>
 
 ### My WakaTime Stats 📊:
