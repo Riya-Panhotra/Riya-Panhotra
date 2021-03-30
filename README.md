@@ -4,7 +4,7 @@
 
 
 ----
-  <h1 align="center"> 𝐇𝐢<img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="50px"> 𝐈'𝐦 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫</h1>
+  <h1 align="center"> 𝐇𝐢<img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="50px"> 𝐈'𝐦 𝐑𝐢𝐲𝐚 𝐏𝐚𝐧𝐡𝐨𝐭𝐫𝐚</h1>
 
 
 
