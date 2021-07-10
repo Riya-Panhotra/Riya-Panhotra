@@ -6,7 +6,7 @@
 <h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width=6% /> 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
 
 
-| <img src = "https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/circle-cropped%20(1).png"  width = 80%  > | <img src = "https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/circle-cropped%20(2).png"  width = 70%  > 
+| <img src = "https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/circle-cropped%20(1).png"  width = 90%  > | <img src = "https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/circle-cropped%20(2).png"  width = 70%  > 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: 
 |                    [ɪɴꜱᴛᴀɢʀᴀᴍ](https://www.instagram.com/__riya____179/?utm_medium=copy_link)\*                   |     [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/riya-panhotra-2030/)\*     |
 
@@ -34,7 +34,7 @@
 <a href="https://github.com/Riya-Panhotra/"><img src="https://img.shields.io/github/followers/Riya-Panhotra?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Riya-Panhotra/Hackerrank)](https://github.com/Riya-Panhotra/Hackerrank/commits/master)
-![living](https://img.shields.io/badge/living-Bihar-3c9)
+![living](https://img.shields.io/badge/living-Jammu-3c9)
 <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
   
 ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)<a href="https://github.com/Riya-Panhotra">
@@ -306,7 +306,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 <div align="center">
  
-### <img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Rocket.gif" width="18px">Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/Riya-Panhotra?tab=repositories)!
+### Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/Riya-Panhotra?tab=repositories)!
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
 </div>
