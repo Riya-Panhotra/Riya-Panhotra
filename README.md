@@ -33,7 +33,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/Riya-Panhotra/Riya-Panhotra)](https://github.com/Riya-Panhotra/Riya-Panhotra/archive/master.zip)
 <a href="https://github.com/Riya-Panhotra/"><img src="https://img.shields.io/github/followers/Riya-Panhotra?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Riya-Panhotra/Hackerrank)](https://github.com/Riya-Panhotra/Hackerrank/commits/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Riya-Panhotra/Riya-Panhotra)](https://github.com/Riya-Panhotra/Riya-Panhotra/commits/master)
 ![living](https://img.shields.io/badge/living-Jammu-3c9)
 <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
   
