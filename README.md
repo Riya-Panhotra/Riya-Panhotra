@@ -293,8 +293,9 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <a href="https://github.com/Riya-Panhotra/Riya-Panhotra"><img alt=" Ashish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Riya-Panhotra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-![Contribution](https://user-images.githubusercontent.com/61516051/125000032-10a15e00-e06d-11eb-81c8-6ead3241d253.png)
 
+
+![Contribution](https://user-images.githubusercontent.com/77095499/125171689-0dc07d80-e1d3-11eb-93d9-0747a8d22b0b.png)
 
 
 
