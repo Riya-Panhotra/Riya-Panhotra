@@ -241,34 +241,33 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 ### My Projects ✨:
   
-<a href="https://github.com/Riya-Panhotra/E-Commerce-Website-Using-NodeJS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=E-Commerce-Website-Using-NodeJS&theme=tokyonight" />
+
+<a href="https://github.com/Riya-Panhotra/MusicHoster-Frontend">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=MusicHoster-Frontend&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Riya-Panhotra/Note-Taker-Using-Node-JS">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Note-Taker-Using-Node-JS&theme=tokyonight" />
+<a href="https://github.com/Riya-Panhotra/Calculator">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Calculator&theme=tokyonight" />
+</a>
+<a href="https://github.com/Riya-Panhotra/Password_Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Password_Generator&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Riya-Panhotra/Vaccine-near-me-Using-Cowin-Government-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Vaccine-near-me-Using-Cowin-Government-API&theme=tokyonight" />
+
+
+
+<a href="https://github.com/Riya-Panhotra/Scribbler-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Scribbler-Project&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Riya-Panhotra/Corona_Hospital_Management">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Corona_Hospital_Management&theme=tokyonight" />
+<a href="https://github.com/Riya-Panhotra/End_term">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=End_term&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Riya-Panhotra/Music-Hoster-Backend-Spring-Boot">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Music-Hoster-Backend-Spring-Boot&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/Riya-Panhotra/Image-Hosting-Application-Using-Spring-Boot-Technology">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Image-Hosting-Application-Using-Spring-Boot-Technology&theme=tokyonight" />
-</a>
-<a href="https://github.com/Riya-Panhotra/Email-Sender-Web-API-Backend">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Email-Sender-Web-API-Backend&theme=tokyonight" />
-</a>
-<a href="https://github.com/Riya-Panhotra/ExamPortal-Backend">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=ExamPortal-Backend&theme=tokyonight" />
+
+<a href="https://github.com/Riya-Panhotra/Email-Sender-without-Attachment">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Riya-Panhotra&repo=Email-Sender-without-Attachment&theme=tokyonight" />
 </a>
 <br/>
 
