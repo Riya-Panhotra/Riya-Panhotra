@@ -290,14 +290,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </p>
 
 <a href="https://github.com/Riya-Panhotra/Riya-Panhotra"><img alt=" Ashish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Riya-Panhotra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
-
 ![Contribution](https://user-images.githubusercontent.com/77095499/125171689-0dc07d80-e1d3-11eb-93d9-0747a8d22b0b.png)
-
-
-
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Ashish2030/Ashish2030/blob/main/github-contribution-grid-snake.svg)
 
 
@@ -315,6 +308,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <a href= "https://www.linkedin.com/in/riya-panhotra-2030/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
   <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+  <a href= "https://www.instagram.com/__riya____179/?utm_medium=copy_link"><img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/%5Bremoval.ai%5D_tmp-60eb69f36dfc0.png" width="4%"/></a>
   <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
   <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
